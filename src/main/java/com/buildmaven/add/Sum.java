@@ -9,4 +9,8 @@ public class Sum {
 		return a+b;
 	}
 
+	public int multi(int a , int b)
+	{
+		return a*b;
+	}
 }
